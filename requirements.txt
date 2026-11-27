@@ -1,0 +1,6 @@
+streamlit>=1.40
+docxtpl>=0.19
+gspread>=6.0
+google-api-python-client>=2.100
+google-auth>=2.30
+python-docx>=1.1
